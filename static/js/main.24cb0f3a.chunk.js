@@ -1,0 +1,2 @@
+(this.webpackJsonpstudio2=this.webpackJsonpstudio2||[]).push([[0],[,,function(e,t,n){},,function(e,t,n){e.exports=n(10)},,,,,function(e){e.exports=JSON.parse("{}")},function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),o=n(3),s=n.n(o);n(2),n(9);var i=function(){return a.a.createElement("div",{className:"app"},"Trivia!")};s.a.render(a.a.createElement(i,null),document.getElementById("root"))}],[[4,1,2]]]);
+//# sourceMappingURL=main.24cb0f3a.chunk.js.map

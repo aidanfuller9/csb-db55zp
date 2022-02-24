@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://aidanfuller9.github.io/csb-db55zp/static/css/main.9ee66982.chunk.css",
+    "main.js": "https://aidanfuller9.github.io/csb-db55zp/static/js/main.24cb0f3a.chunk.js",
+    "main.js.map": "https://aidanfuller9.github.io/csb-db55zp/static/js/main.24cb0f3a.chunk.js.map",
+    "runtime-main.js": "https://aidanfuller9.github.io/csb-db55zp/static/js/runtime-main.2e0f4f9f.js",
+    "runtime-main.js.map": "https://aidanfuller9.github.io/csb-db55zp/static/js/runtime-main.2e0f4f9f.js.map",
+    "static/js/2.6012264f.chunk.js": "https://aidanfuller9.github.io/csb-db55zp/static/js/2.6012264f.chunk.js",
+    "static/js/2.6012264f.chunk.js.map": "https://aidanfuller9.github.io/csb-db55zp/static/js/2.6012264f.chunk.js.map",
+    "index.html": "https://aidanfuller9.github.io/csb-db55zp/index.html",
+    "precache-manifest.f7c10aed0103219f180b38ae3da8ff26.js": "https://aidanfuller9.github.io/csb-db55zp/precache-manifest.f7c10aed0103219f180b38ae3da8ff26.js",
+    "service-worker.js": "https://aidanfuller9.github.io/csb-db55zp/service-worker.js",
+    "static/css/main.9ee66982.chunk.css.map": "https://aidanfuller9.github.io/csb-db55zp/static/css/main.9ee66982.chunk.css.map",
+    "static/js/2.6012264f.chunk.js.LICENSE.txt": "https://aidanfuller9.github.io/csb-db55zp/static/js/2.6012264f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0f4f9f.js",
+    "static/js/2.6012264f.chunk.js",
+    "static/css/main.9ee66982.chunk.css",
+    "static/js/main.24cb0f3a.chunk.js"
+  ]
+}
